@@ -1,3 +1,3 @@
 # MavenTestApp
 
-Maven Test Project
+Maven test project
