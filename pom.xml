@@ -4,7 +4,7 @@
          
 
     <groupId>org.kj.mvn</groupId>
-    <artifactId>MavenTestApp</artifactId>
+    <artifactId>MavenTestApp-ex</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
