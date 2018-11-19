@@ -31,4 +31,9 @@ public class CalciTest {
     assertEquals(0, Calci.subtract(0, 0));
   }
 
+  @Test
+  public void subWhenNumbersAreNegative() {
+    assertEquals(-5, Calci.add(-2, -3));
+  }
+
 }
