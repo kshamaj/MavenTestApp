@@ -26,4 +26,9 @@ public class CalciTest {
     assertEquals(3, Calci.subtract(5, 2));
   }
 
+  @Test
+  public void subWhenNumbersAreZero() {
+    assertEquals(0, Calci.subtract(0, 0));
+  }
+
 }
